@@ -3,6 +3,7 @@
 
 namespace ConsoleApp.Samples
 {
+    // https://sergeyteplyakov.blogspot.com/2012/08/duck-typing-foreach.html
     internal static class Sample2_ForeachDuckTyping
     {
         private sealed class CustomEnumerable<T>
